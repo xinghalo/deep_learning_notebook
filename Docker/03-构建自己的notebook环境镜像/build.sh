@@ -1,0 +1,1 @@
+docker build -t xingoo:pytorch_notebook .
